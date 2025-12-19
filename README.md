@@ -15,6 +15,11 @@
   />
 </picture>
 
+<img
+  src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg"
+  height="64"
+  alt="Ollama"
+/>
 
 
 
