@@ -16,7 +16,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png"
+    srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/Ollama.png"
 </picture>
 
 
