@@ -17,11 +17,6 @@
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png"
-  />
-  <img
-    height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai.png"
-  />
 </picture>
 
 
