@@ -1,9 +1,7 @@
-  ## Hi there 
+## Hi there 
   I'm Stamp, 
 
-
-
-  ## Tools 
+## Tools 
   
 
 
