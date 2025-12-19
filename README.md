@@ -15,11 +15,18 @@
   />
 </picture>
 
-<img
-  src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg"
-  height="64"
-  alt="Ollama"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama-color.png"
+  />
+  <img
+    height="64"
+    src="https://unpkg.com/@lobehub/icons-static-png@latest/light/ollama-color.png"
+    alt="Ollama"
+  />
+</picture>
+
 
 
 
