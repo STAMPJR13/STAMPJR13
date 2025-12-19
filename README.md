@@ -7,18 +7,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png"
+    srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/Ollama.png"
   />
-  <img height="64" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" />
+  <img height="64" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/Ollama.png" />
 </picture>
-
-<!--ALIYUN-->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/Ollama.png"
-</picture>
-
 
 
 
