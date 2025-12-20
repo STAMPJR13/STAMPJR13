@@ -76,17 +76,6 @@ from **data labeling → model training → deployment** 🚀
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
----
-
-## 📫 Contact
-💼 Open for Data / AI / ML opportunities  
-📬 Reach me via GitHub
-
-⭐ *Turning data into intelligent systems*
-
 
 
 
