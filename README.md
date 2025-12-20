@@ -27,17 +27,17 @@ from **data labeling → model training → deployment** 🚀
 ---
 
 ## 💻 Programming Languages
-[![Languages](https://skillicons.dev/icons?i=python,r,sql,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,sql&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## 🧰 Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=linux,docker,git,github,vscode,jupyter&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,vscode,jupyter&theme=dark)](https://skillicons.dev)
 
 ---
 
 ## 🤖 AI / ML / LLM Stack
-[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)
+[![AI](https://skillicons.dev/icons?i=opencv&theme=dark)](https://skillicons.dev)
 
 <img height="32" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png" alt="Ollama" />
 <img height="32" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/huggingface.png" alt="HuggingFace" />
