@@ -44,37 +44,6 @@ from **data labeling → model training → deployment** 🚀
 ## 🏷️ Data Labeling
 <img height="32" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/labelstudio.png" alt="Label Studio" />
 
-- Image / Text Annotation  
-- Dataset preparation for ML & CV  
-- Annotation for Object Detection & OCR
-
----
-
-## 👁️ Computer Vision
-- Object Detection (YOLO)
-- Image Classification
-- OCR Pipeline
-- Video & Real-time inference
-
----
-
-## 📂 Highlight Projects
-🔹 **Object Detection System**
-- YOLO-based detection (image & video)
-- Production-ready pipeline
-
-🔹 **Local LLM + OCR**
-- OCR → LLM → Structured output
-- Fully local with Ollama
-
-🔹 **Anomaly Detection**
-- Industrial image anomaly detection
-- Feature-based & deep learning methods
-
----
-
-
-
 
 
 
