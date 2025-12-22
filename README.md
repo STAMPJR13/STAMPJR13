@@ -14,7 +14,8 @@ from **data labeling → model training → deployment** 🚀
   height="50"
   src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png"
   alt="Ollama"
-/>
+/>![Label Studio](https://raw.githubusercontent.com/HumanSignal/label-studio/master/docs/images/label-studio-logo.svg)
+
 
 
 
