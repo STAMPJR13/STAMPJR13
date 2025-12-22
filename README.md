@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Stamp
 ### Data Scientist | AI Engineer | LLM 
-I look work with **data, machine learning, AI, and local LLM systems**  
-from **data labeling → model training → deployment** 🚀
+I look work with **data, machine learning, AI, and LLM**  
+
 ## 🧠 Internship experience
 - 📊 Data Science & Analytics
 - 🤖 Machine Learning & AI
@@ -10,13 +10,13 @@ from **data labeling → model training → deployment** 🚀
 - 👁️ Computer Vision (Object Detection, OCR)
 
 ## Tools 
-[![My Skills](https://skillicons.dev/icons?i=docker,figma&theme=light)](https://skillicons.dev)<img
-  height="50"
-  src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png"
-  alt="Ollama"
-/>![Label Studio](https://raw.githubusercontent.com/HumanSignal/label-studio/master/docs/images/label-studio-logo.svg)
-
-
+<div align="left">
+  <img height="50" src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png" alt="Ollama"/>
+  <img src="https://skillicons.dev/icons?i=python,docker,flask" /> 
+  <img src="https://cdn.brandfetch.io/idcc3EaqDj/w/40/h/40/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1760908854597" width="50" alt="Label Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="microsoftsqlserver logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+</div>
 
 
 
