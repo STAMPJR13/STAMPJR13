@@ -1,5 +1,8 @@
-## Hi there 
-  I'm Stamp, 
+# 👋 Hi, I'm Stamp
+### Data Scientist | AI Engineer | LLM & Computer Vision
+
+I look work with **data, machine learning, AI, and local LLM systems**  
+from **data labeling → model training → deployment** 🚀
 
 ## Tools 
 [![My Skills](https://skillicons.dev/icons?i=docker,figma&theme=light)](https://skillicons.dev)<img
@@ -7,15 +10,11 @@
   src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png"
   alt="Ollama"
 />
-# 👋 Hi, I'm Nonthakorn  
-### Data Scientist | AI Engineer | LLM & Computer Vision
 
-I work with **data, machine learning, AI, and local LLM systems**  
-from **data labeling → model training → deployment** 🚀
 
 ---
 
-## 🧠 Expertise
+## 🧠 Internship experience
 - 📊 Data Science & Analytics
 - 🤖 Machine Learning & AI
 - 🦙 Local LLM (Ollama, RAG, OCR + LLM)
