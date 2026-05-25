@@ -1,8 +1,3 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║                  STAMP · README v2 · 2026                        ║
-     ║              Data Scientist · AI Engineer · LLM Dev              ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <a href="#">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F59E0B&height=260&section=header&text=STAMP&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A6%20Data%20%C2%B7%20AI%20%C2%B7%20LLM%20%C2%B7%20Vision%20%E2%9C%A6&descSize=20&descAlignY=62&animation=fadeIn" width="100%"/>
 </a>
@@ -36,16 +31,24 @@
 
 ```yaml
 name:        Stamp (Nonthakorn)
-role:        Data Scientist · AI Engineer · LLM Developer
+role:        Data Analyst · Data Scientist
 location:    Thailand 🇹🇭
+
 focus:
-  - data science & analytics
-  - machine learning & AI
-  - local LLMs (Ollama · RAG · OCR + LLM)
-  - data labeling (Label Studio)
-  - computer vision (object detection · OCR)
-mindset:     "Build small. Measure fast. Iterate forever."
-fuel:        ☕  curiosity  📊
+  - data analysis & business insights
+  - statistical analysis & A/B testing
+  - machine learning for structured data
+  - data visualization (Power BI · Matplotlib · Seaborn)
+  - SQL & data modeling
+  - end-to-end analytics projects (EDA → insight → dashboard)
+
+experience:
+  - internship exposure:
+      - data science & analytics workflows
+      - machine learning & AI experimentation
+      - local LLMs (Ollama · RAG · OCR + LLM)
+      - data labeling (Label Studio)
+      - computer vision (object detection · OCR)
 ```
 
 </td>
@@ -63,10 +66,6 @@ fuel:        ☕  curiosity  📊
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║                  § 02 — INTERNSHIP EXPERIENCE                    ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
-
 ## what I've built
 
 <table>
@@ -77,47 +76,47 @@ fuel:        ☕  curiosity  📊
 </tr>
 
 <tr>
-<td>📊 <b>Data Science & Analytics</b></td>
-<td>EDA, dashboards, business diagnostics — turning messy data into a story.</td>
+<td>📊 <b>Data Analysis & Insights</b></td>
+<td>EDA, KPI tracking, and business diagnostics — turning raw data into actionable insights and dashboards.</td>
 <td align="center"><code>Python</code> · <code>SQL</code> · <code>Power BI</code></td>
 </tr>
 
 <tr>
-<td>🤖 <b>Machine Learning & AI</b></td>
-<td>Trained, evaluated, and shipped ML models end-to-end.</td>
-<td align="center"><code>scikit-learn</code> · <code>PyTorch</code></td>
+<td>📈 <b>Statistical Analysis</b></td>
+<td>Applied hypothesis testing, correlation analysis, and A/B testing for data-driven decisions.</td>
+<td align="center"><code>Python</code> · <code>scipy</code> · <code>statsmodels</code></td>
 </tr>
 
 <tr>
-<td>🧠 <b>Local LLMs</b></td>
-<td>Built RAG pipelines and OCR + LLM workflows fully offline.</td>
-<td align="center"><code>Ollama</code> · <code>Qdrant</code> · <code>RAG</code></td>
+<td>🤖 <b>Machine Learning</b></td>
+<td>Built and evaluated predictive models for structured data problems (classification & regression).</td>
+<td align="center"><code>scikit-learn</code> 
 </tr>
 
 <tr>
-<td>🏷️ <b>Data Labeling</b></td>
-<td>Designed annotation schemas for high-quality training sets.</td>
-<td align="center"><code>Label Studio</code></td>
+<td>📊 <b>Data Visualization</b></td>
+<td>Designed dashboards and reports to communicate insights clearly to business users.</td>
+<td align="center"><code>Power BI</code> · <code>Matplotlib</code> · <code>Seaborn</code></td>
 </tr>
 
 <tr>
-<td>👁️ <b>Computer Vision</b></td>
-<td>Object detection + OCR for document understanding.</td>
-<td align="center"><code>OpenCV</code> · <code>YOLO</code> · <code>OCR</code></td>
+<td>🛒 <b>Market Basket Analysis</b></td>
+<td>
+Analyzed customer transaction patterns to discover product associations and purchasing behavior.
+Compared algorithm performance based on computational efficiency and scalability.
+</td>
+<td align="center"><code>Association Rules</code> · <code>FP-Growth</code> · <code>Apriori</code></td>
 </tr>
 
 <tr>
-<td>⚙️ <b>MLOps</b></td>
-<td>Dockerized AI services and automated workflows.</td>
-<td align="center"><code>Docker</code> · <code>Flask</code> · <code>n8n</code></td>
+<td>🧠 <b>Advanced Exposure (Internship)</b></td>
+<td>Exposure to AI/LLM workflows including RAG, OCR pipelines, and computer vision tasks.</td>
+<td align="center"><code>Ollama</code> · <code>Qdrant</code> · <code>YOLO</code></td>
 </tr>
 </table>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗
-     ║                      § 03 — TECH ARSENAL                         ║
-     ╚══════════════════════════════════════════════════════════════════╝ -->
 
 ## &nbsp; Tech stack
 
